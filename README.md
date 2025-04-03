@@ -6,7 +6,7 @@ This is **not a project**, but rather a self-interest initiative to apply what I
 ## About This Notebook  
 - This notebook contains **Exploratory Data Analysis (EDA)** of the **IPL 2023 season**, analyzing **team performances, player statistics, and match insights**.  
 - Various **Python libraries** such as **Pandas, Matplotlib, Seaborn, and NumPy** have been used for data manipulation and visualization.  
-- The analysis includes **team-wise and player-wise insights**, **match trends**, **scoring patterns**, and more.  
+- The analysis includes **team-wise and player-wise insights**, **match trends**, **scoring patterns**, and more. 
 
 ## Key Learnings 📚  
 ✔️ How to **work with Jupyter Notebooks**  
@@ -18,7 +18,14 @@ This is **not a project**, but rather a self-interest initiative to apply what I
 ## Disclaimer ❗  
 - This is **not an accurate or professional analysis** and may contain **inaccuracies**.  
 - Two matches were missing in the dataset, so some insights might be **incomplete or incorrect**.  
-- The data used here may not be **100% reliable**, and the purpose was **learning and experimentation** rather than drawing final conclusions.  
+- The data used here may not be **100% reliable**, and the purpose was **learning and experimentation** rather than drawing final conclusions.
+
+## Data Cleaning Process 🛠️  
+Before performing any analysis, the dataset was **cleaned and preprocessed** to ensure a smoother workflow:  
+✔️ **Handling Missing Values** – Removed unnecessary columns and dealt with missing or inconsistent data.  
+✔️ **Filtering Relevant Data** – Extracted key match details such as **batting stats, wickets, extras, and over-wise progression**.  
+✔️ **Standardizing Team & Player Names** – Ensured uniformity in naming conventions for teams and players.  
+✔️ **Derived Columns** – Created additional metrics for **cumulative runs, strike rates, and match progression analysis**. 
 
 ## Visualizations Included 📊  
 🔹 **Number of Matches per Season**  
