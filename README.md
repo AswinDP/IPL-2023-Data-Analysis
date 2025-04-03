@@ -20,6 +20,11 @@ This is **not a project**, but rather a self-interest initiative to apply what I
 - Two matches were missing in the dataset, so some insights might be **incomplete or incorrect**.  
 - The data used here may not be **100% reliable**, and the purpose was **learning and experimentation** rather than drawing final conclusions.
 
+## Data Source & Credits 🎖️  
+The dataset used in this analysis was sourced from Kaggle.
+
+🔗 **Original Dataset Link:** https://www.kaggle.com/datasets/sahiltailor/ipl-2024-ball-by-ball-dataset?select=ipl_2023_deliveries.csv
+
 ## Data Cleaning Process 🛠️  
 Before performing any analysis, the dataset was **cleaned and preprocessed** to ensure a smoother workflow:  
 ✔️ **Handling Missing Values** – Removed unnecessary columns and dealt with missing or inconsistent data.  
